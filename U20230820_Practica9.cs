@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿using System;
 
 namespace MyApp// Note: actual namespace depends on the project name.
 {
@@ -100,12 +100,10 @@ namespace MyApp// Note: actual namespace depends on the project name.
             return a * b;
         }
 
-
         static double Multiplicar (double a, double b)
         {
             return a * b;
         }
-
 
         static int RestarNumeros(params int[] numeros)
         {
